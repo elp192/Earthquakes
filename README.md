@@ -15,3 +15,25 @@ Software: Visual Studio Code
 
 API: [Mapbox account](https://www.mapbox.com) is created and Mapbox API key is saved in the config.js file in /earthquakes/static/js/.
 
+## Results
+The final files to create the following results are store in earthquakes folder Earthquakes/earthquakes/
+<p img align="center" width="100%">
+<img width="600" alt="streets" src="https://user-images.githubusercontent.com/85843401/135540412-acdf0df1-1e56-4f7d-9a48-696e00801532.png">
+<figcaption>Figure 1: An interactive map: street view.</figcaption></figure/> 
+<p align="center">
+</p>
+
+
+<p img align="center" width="100%">
+<img width="600" alt="satellite" src="https://user-images.githubusercontent.com/85843401/135540420-9ff13492-a3cb-49d6-a98a-c600cf4ef04d.png">
+<figcaption>Figure 2: An interactive map: satellite view.</figcaption></figure/> 
+<p align="center">
+</p>
+
+
+<p img align="center" width="100%">
+<img width="600" alt="dark" src="https://user-images.githubusercontent.com/85843401/135540431-5db06f51-2078-44c1-8457-db68b0e73e39.png">
+<figcaption>Figure 3: An ineractive map: dark view.</figcaption></figure/> 
+<p align="center">
+</p>
+
